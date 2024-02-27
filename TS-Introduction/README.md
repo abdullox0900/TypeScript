@@ -8,13 +8,13 @@ Ammo TypeScript aniq nima va nima uchun u zamonaviy veb-ishlab chiqishning asosi
 
 Keling, uning mohiyati, xususiyatlari va afzalliklarini ochish uchun TypeScript dunyosiga sho'ng'iymiz. 🙂
 
-# TypeScript o'zi nima?
+### TypeScript o'zi nima?
 
 TypeScript birinchi marta 2012 yilda Microsoft tomonidan ishlab chiqilgan.
 `TypeScript is a superset of the JavaScript.`
 TypeScript bu aloxida til xisoblanadi faqat JavaScript ustiga qurilgan bir til.
 
-# TypeScript-ning Asosiy xususiyatlari.
+### TypeScript-ning Asosiy xususiyatlari.
 
 - `Static Typing: TypeScript:`, JavaScriptga oʻxshash, lekin uningga qoʻshimcha funksiyalarni qoʻshgan va eng asosiy farq, static typing (statik typelash)ni qoʻshgan. Statik typelash, kodni yozishda muhim xatolarni oldini olish va kodni aniqlashni osonlash uchun oʻzgaruvchilarni va funksiyalarni tiplar bilan ma'lum qilishni tashkil etadi.
 
