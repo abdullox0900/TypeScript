@@ -1,3 +1,5 @@
-const userName:String =    "Hello"
+const userName: String = 'Hello'
 
-console.log(userName);
+console.log(userName)
+
+let obj: (string | number | boolean)[] = []
